@@ -25,7 +25,7 @@ public class Day1 extends AoC2020 {
             }
         }
         
-        System.out.println("Solution to part 1: " + sol);
+        System.out.println("Solution to  day 1 part 1: " + sol);
         
         for (int i:ip){
             visited.add(i);
@@ -37,7 +37,7 @@ public class Day1 extends AoC2020 {
             }
         }
         
-        System.out.println("Solution to part 2: " + sol);
+        System.out.println("Solution to day 2 part 2: " + sol);
         
         
         
