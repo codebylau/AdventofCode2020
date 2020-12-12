@@ -37,7 +37,7 @@ public class Day1 extends AoC2020 {
             }
         }
         
-        System.out.println("Solution to day 2 part 2: " + sol);
+        System.out.println("Solution to day 1 part 2: " + sol);
         
         
         
